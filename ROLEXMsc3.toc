@@ -1,0 +1,36 @@
+\contentsline {chapter}{DECLARATION}{i}
+\contentsline {chapter}{CERTIFICATION}{ii}
+\contentsline {chapter}{DEDICATION}{iii}
+\contentsline {chapter}{ACKNOWLEDGEMENTS}{iv}
+\contentsline {chapter}{ABSTRACT}{v}
+\contentsline {chapter}{R\'ESUM\'E}{vi}
+\contentsline {chapter}{TABLE OF CONTENTS}{viii}
+\contentsline {chapter}{LIST OF TABLES}{ix}
+\contentsline {chapter}{LIST OF FIGURES}{x}
+\contentsline {chapter}{LIST OF ABBREVIATIONS}{xi}
+\contentsline {chapter}{\numberline {1}GENERAL INTRODUCTION}{1}
+\contentsline {section}{\numberline {1.1}Background and Motivation}{1}
+\contentsline {section}{\numberline {1.2}Objectives of work}{3}
+\contentsline {section}{\numberline {1.3}Layout of work}{3}
+\contentsline {chapter}{\numberline {2}Preliminaries}{4}
+\contentsline {section}{\numberline {2.1}Generalised Linear Model}{4}
+\contentsline {subsection}{\numberline {2.1.1}Logistic Regression}{5}
+\contentsline {subsection}{\numberline {2.1.2}Poisson Regression}{6}
+\contentsline {subsection}{\numberline {2.1.3}Linear Regression}{7}
+\contentsline {section}{\numberline {2.2}Convex Optimisation Problem}{8}
+\contentsline {subsection}{\numberline {2.2.1}Convex Optimality for Differentiable Problems}{8}
+\contentsline {subsection}{\numberline {2.2.2}Convex Optimality for Nondifferentiable Function}{9}
+\contentsline {subsection}{\numberline {2.2.3}Some Inequalities}{11}
+\contentsline {chapter}{\numberline {3}Model Setup and Methods}{12}
+\contentsline {section}{\numberline {3.1}Measurement error in covariates}{12}
+\contentsline {section}{\numberline {3.2}Generalised Matrix Uncertainty Selector}{13}
+\contentsline {subsection}{\numberline {3.2.1}Iterative Reweighing Algorithm for GMUS}{16}
+\contentsline {section}{\numberline {3.3}Generalised Matrix Uncertainty Lasso (GMUL)}{18}
+\contentsline {chapter}{\numberline {4}Simulation study}{21}
+\contentsline {section}{\numberline {4.1}Simulations Design}{21}
+\contentsline {section}{\numberline {4.2}Simulation Results}{22}
+\contentsline {subsection}{\numberline {4.2.1}Poisson Regression}{22}
+\contentsline {subsection}{\numberline {4.2.2}Logistic Regression}{22}
+\contentsline {subsection}{\numberline {4.2.3}Normal regression}{22}
+\contentsline {chapter}{\numberline {5}Discussion, Conclusion and Recommendation}{23}
+\contentsline {chapter}{BIBLIOGRAPHY}{24}
